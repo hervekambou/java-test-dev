@@ -1,0 +1,21 @@
+div.cadre{
+	border:1px dotted grey;
+	border-radius:10px;
+	padding:10px;
+	margin:10px
+}
+table.tab1 th{
+	border:1px dotted grey;
+	background:pink;
+	padding:5px;
+}
+
+table.tab1 td{
+	border:1px dotted grey;
+	background:white;
+	padding:5px;
+}
+.errors{
+	color:red;
+	text-decoration:blink;
+}
